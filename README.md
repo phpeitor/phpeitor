@@ -28,3 +28,6 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://styled-components.com"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" data-canonical-src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://jwt.io"><img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" data-canonical-src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" style="max-width: 100%;"></a>
 </p>
+<a href="#gh-dark-mode-only">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=phpeitor&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
+</a>
