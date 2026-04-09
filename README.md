@@ -31,6 +31,3 @@
   <a href="#"><img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"></a>
 </p>
-
-### 📈 Activity Graph
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=phpeitor&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
