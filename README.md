@@ -33,6 +33,4 @@
 </p>
 
 ### 📈 Activity Graph
-<a href="#gh-dark-mode-only">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=phpeitor&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
-</a>
