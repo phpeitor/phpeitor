@@ -21,7 +21,7 @@
   <a href="#"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/TailwindCss-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Filament-eab308?style=for-the-badge&logo=laravel&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Filament-eab308?style=for-the-badge&logo=laravel&logoColor=red"></a>
   <a href="#"><img src="https://img.shields.io/badge/Asterisk-f6772f?style=for-the-badge&logo=php&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
