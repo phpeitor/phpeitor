@@ -33,5 +33,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=phpeitor&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phpeitor&theme=tokyo-night">
 </p>
