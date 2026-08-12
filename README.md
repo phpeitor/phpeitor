@@ -32,13 +32,3 @@
   <a href="#"><img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"></a>
 </p>
 
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=phpeitor&show_icons=true&theme=tokyonight">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=phpeitor&layout=compact&theme=tokyonight">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=phpeitor&theme=tokyonight">
-</p>
