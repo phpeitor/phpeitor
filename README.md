@@ -32,3 +32,6 @@
   <a href="#"><img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"></a>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true">
+</p>
