@@ -33,5 +33,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phpeitor&theme=github-light">
+  <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=phpeitor&theme=github-light"></a>
 </p>
